@@ -1,0 +1,33 @@
+# Set theme
+remote_theme: daviddarnes/alembic
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+url: 'https://www.hbrproof.com'
+baseurl: ''
+title: 'PROOF'
+description: 'Proofreading • Editing • Quality Control'
+permalink: pretty
+logo: "blank.png"
+css_inline: true
+
+
+navigation_header: test
+navigation_footer: test
