@@ -30,6 +30,7 @@ document.write("<a href='mailto:"+link+"'>"+link+"</a>")
 }
 //-->
 </script><noscript>(Sorry, you need Javascript on to email me)</noscript>.*
+
 ---
 
 Sentences are the foundation of our language, and words our bricks. Supposing every document is a building, wouldn’t it be wise to ensure solid ground?
