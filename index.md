@@ -5,6 +5,33 @@ feature_image: "blurrypages5.jpg"
 feature_text: ""
 ---
 
+Avoid embarrassing typos! Let me proofread your paper or dissertation. 11 years' experience. Contact me at <script type="text/javascript" language="javascript">
+<!--
+// Email obfuscator script 2.1 by Tim Williams, University of Arizona
+// Random encryption key feature by Andrew Moulden, Site Engineering Ltd
+// This code is freeware provided these four comment lines remain intact
+// A wizard to generate this code is at http://www.jottings.com/obfuscator/
+{ coded = "8iDDtlmXDme3@8iDXDRzeSW.yDz"
+  key = "3pdZfuJSchjE4n9r5lT2UP7s6aAo8m1tHIOykCLFRgibWwNK0xMYeBDGzvXVQq"
+  shift=coded.length
+  link=""
+  for (i=0; i<coded.length; i++) {
+    if (key.indexOf(coded.charAt(i))==-1) {
+      ltr = coded.charAt(i)
+      link += (ltr)
+    }
+    else {     
+      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+      link += (key.charAt(ltr))
+    }
+  }
+document.write("<a href='mailto:"+link+"'>"+link+"</a>")
+}
+//-->
+</script><noscript>(Sorry, you need Javascript on to email me)</noscript>.
+
+---
+
 Sentences are the foundation of our language, and words our bricks. Supposing every document is a building, wouldn’t it be wise to ensure solid ground?
 
 
@@ -47,11 +74,11 @@ My past clients include KEXP, Pyramid Communications, Overlake Medical Center, t
 If you are interested, please email me at <script type="text/javascript" language="javascript">
 <!--
 // Email obfuscator script 2.1 by Tim Williams, University of Arizona
-// Random encryption key feature coded by Andrew Moulden
+// Random encryption key feature by Andrew Moulden, Site Engineering Ltd
 // This code is freeware provided these four comment lines remain intact
 // A wizard to generate this code is at http://www.jottings.com/obfuscator/
-{ coded = "FADDNsnYDnKc@Fw.ws"
-  key = "HipkR0OBdfLAyK2hYZGTF8SXmvnNIMc3olVJ95eUExwbq17P4gDjQzursa6CtW"
+{ coded = "8iDDtlmXDme3@8iDXDRzeSW.yDz"
+  key = "3pdZfuJSchjE4n9r5lT2UP7s6aAo8m1tHIOykCLFRgibWwNK0xMYeBDGzvXVQq"
   shift=coded.length
   link=""
   for (i=0; i<coded.length; i++) {
@@ -67,7 +94,8 @@ If you are interested, please email me at <script type="text/javascript" languag
 document.write("<a href='mailto:"+link+"'>"+link+"</a>")
 }
 //-->
-</script><noscript>(Sorry, you need Javascript on to email me)</noscript>.  
+</script><noscript>(Sorry, you need Javascript on to email me)</noscript>.
+
 I would be glad to work with you.
 <p></p>
 {% include figure.html image="photo_small.jpg" position="center" %}
