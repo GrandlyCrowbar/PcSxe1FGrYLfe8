@@ -5,7 +5,8 @@ feature_image: "blurrypages5.jpg"
 feature_text: ""
 ---
 
-Avoid embarrassing typos! Let me proofread your paper or dissertation. 11 years' experience. Contact me at <script type="text/javascript" language="javascript">
+Avoid embarrassing typos! Let me proofread your paper or dissertation. 11 years' experience. 
+Contact me at <script type="text/javascript" language="javascript">
 <!--
 // Email obfuscator script 2.1 by Tim Williams, University of Arizona
 // Random encryption key feature by Andrew Moulden, Site Engineering Ltd
@@ -29,8 +30,7 @@ document.write("<a href='mailto:"+link+"'>"+link+"</a>")
 }
 //-->
 </script><noscript>(Sorry, you need Javascript on to email me)</noscript>.
-
----
+***
 
 Sentences are the foundation of our language, and words our bricks. Supposing every document is a building, wouldn’t it be wise to ensure solid ground?
 
