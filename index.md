@@ -5,7 +5,7 @@ feature_image: "blurrypages5.jpg"
 feature_text: ""
 ---
 
-*Avoid embarrassing typos! Let me proofread your paper or dissertation. Twelve years' experience. 
+*Avoid embarrassing typos! Let me proofread your paper or dissertation. Thirteen years' experience. 
 Contact me at <script type="text/javascript" language="javascript">
 <!--
 // Email obfuscator script 2.1 by Tim Williams, University of Arizona
